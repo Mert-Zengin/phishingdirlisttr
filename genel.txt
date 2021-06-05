@@ -1,0 +1,13 @@
+dustu.txt
+log.txt
+loglar.txt
+indi.txt
+insta.txt
+instagram.txt
+ccler.txt
+cc.txt
+kart.txt
+hgs.txt
+log.php
+logs.php
+loglar.php
